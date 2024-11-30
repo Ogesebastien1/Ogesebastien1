@@ -1,6 +1,6 @@
 ![GitHub Header Image](https://github.com/user-attachments/assets/034777b1-8b11-4476-a9ec-65a3830e4cbb)
 
-## 🌟 Tech Stack
+## 👨🏽‍💻 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C# logo" />
@@ -23,7 +23,7 @@
 </div>
 
 
-## 👋 About Me
+## 🌐 About Me
 
 - 🎓 **Education**: Currently studying at **Epitech**, a leading institution in software engineering.
 - 💼 **Internship**: Gained hands-on experience at **Asahi Kasei International IT**.

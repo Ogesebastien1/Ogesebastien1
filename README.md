@@ -1,5 +1,6 @@
 
-![github-header-image (6)](https://github.com/user-attachments/assets/492a7b76-9798-4b2d-82fa-646aaa71eef1)
+![github-header-image (7)](https://github.com/user-attachments/assets/5f6f3dac-3a42-47fb-92ea-4e130282d6bb)
+
 
 ## 👨🏽‍💻 Tech Stack
 

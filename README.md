@@ -34,7 +34,8 @@
 - 🎓 **Education**: Currently studying at **Epitech**, a leading institution in software engineering.
 - 💼 **Internship**: Gained hands-on experience at **Asahi Kasei International IT**.
 
-<a href="www.linkedin.com/in/sebastienoge" target="_blank">
+<br>
+<a href="https://www.linkedin.com/in/sebastien-oge" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
        height="35" 
        alt="LinkedIn logo" />

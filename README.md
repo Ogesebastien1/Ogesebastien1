@@ -1,6 +1,5 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/d2a7ec7b-e5bc-4e6a-981d-33af653c3b69)
+![github-header-image (4)](https://github.com/user-attachments/assets/034777b1-8b11-4476-a9ec-65a3830e4cbb)
 
-###
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -27,7 +26,7 @@
 
 
 ###
-
+###
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogesebastien1&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogesebastien1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />

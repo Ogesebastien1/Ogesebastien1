@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogesebastien1&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
        alt="Top Languages" 
        height="200px" 
-       width="40%" />
+       width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogesebastien1&theme=prussian&hide_border=false" 
        alt="GitHub Streak Stats" 
        height="200px" 

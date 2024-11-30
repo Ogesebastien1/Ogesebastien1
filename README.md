@@ -1,4 +1,5 @@
-![GitHub Header Image](https://github.com/user-attachments/assets/034777b1-8b11-4476-a9ec-65a3830e4cbb)
+
+![github-header-image (6)](https://github.com/user-attachments/assets/492a7b76-9798-4b2d-82fa-646aaa71eef1)
 
 ## 👨🏽‍💻 Tech Stack
 

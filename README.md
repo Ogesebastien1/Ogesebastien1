@@ -1,7 +1,9 @@
 ![github-header-image (4)](https://github.com/user-attachments/assets/034777b1-8b11-4476-a9ec-65a3830e4cbb)
 
-###
-<div align="center">
+### 💻 Tech Stack:
+
+<div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -23,14 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
+### 📊 GitHub Stats:
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ogesebastien1&theme=shadow_green&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ogesebastien1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
-###
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogesebastien1&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogesebastien1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
 
 
 <br clear="both">

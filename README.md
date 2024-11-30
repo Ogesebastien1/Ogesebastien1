@@ -18,8 +18,8 @@
 ## 📈 GitHub Stats
 
 <div align="left"">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogesebastien1&theme=shadow_green&hide_border=false" alt="GitHub Streak Stats" height="200px" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogesebastien1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200px" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogesebastien1&theme=shadow_green&hide_border=false" alt="GitHub Streak Stats" height="200px" width="50%" />
 </div>
 
 

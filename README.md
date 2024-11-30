@@ -17,7 +17,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="left"">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogesebastien1&theme=prussian&hide_border=false" 
        alt="GitHub Streak Stats" 

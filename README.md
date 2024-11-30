@@ -36,9 +36,10 @@
 </div>
 
 ###
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 50px; height: 100vh;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ogesebastien1&show_icons=true&locale=en&layout=compact" alt="ogesebastien1" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogesebastien1&" alt="ogesebastien1" />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogesebastien1&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogesebastien1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 

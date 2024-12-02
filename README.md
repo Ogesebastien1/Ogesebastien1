@@ -25,8 +25,8 @@
        width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogesebastien1&theme=prussian&hide_border=false" 
        alt="GitHub Streak Stats" 
-       height="250px" 
-       width="50%" />
+       height="200px" 
+       width="45%" />
 </div>
 
 

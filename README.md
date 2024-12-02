@@ -26,7 +26,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogesebastien1&theme=prussian&hide_border=false" 
        alt="GitHub Streak Stats" 
        height="200px" 
-       width="55%" />
+       width="50%" />
 </div>
 
 
